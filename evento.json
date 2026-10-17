@@ -1,0 +1,12 @@
+{
+  "nombre": "BARRACA x SOTI · BUILD NIGHT",
+  "nombre_corto": "Build night",
+  "organizan": "BARRACA x SOTI",
+  "inicio": "2026-10-22T18:30:00+02:00",
+  "fin": "2026-10-22T22:00:00+02:00",
+  "enlaces": {
+    "centro": "https://build.barraca.house",
+    "guia": "https://barraca.house/es/sessions/003-build-night"
+  },
+  "registroFueraDePlazo": false
+}
