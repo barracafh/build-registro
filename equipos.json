@@ -1,1 +1,141 @@
-[]
+[
+  {
+    "id": "brujula-a",
+    "nombre": "The Shakers",
+    "herramienta": "brujula",
+    "mesa": "1",
+    "miembros": [
+      "Cotel",
+      "Bethle13",
+      "niicogrc",
+      "Saul-Gomez-J",
+      "guillemrevert"
+    ],
+    "repo": "barracafh/build-brujula-a"
+  },
+  {
+    "id": "brujula-b",
+    "nombre": "Cuajaos",
+    "herramienta": "brujula",
+    "mesa": "2",
+    "miembros": [
+      "lNatxii",
+      "EduardGilM",
+      "rmarzal",
+      "archector",
+      "mm-shell"
+    ],
+    "repo": "barracafh/build-brujula-b"
+  },
+  {
+    "id": "derechos-a",
+    "nombre": "akorda",
+    "herramienta": "derechos",
+    "mesa": "3",
+    "miembros": [
+      "ogomezba",
+      "kukapu",
+      "alexgcalvet",
+      "tomas-alonso-llopis",
+      "Cocosint"
+    ],
+    "repo": "barracafh/build-derechos-a"
+  },
+  {
+    "id": "derechos-b",
+    "nombre": "TerretaHub",
+    "herramienta": "derechos",
+    "mesa": "4",
+    "miembros": [
+      "cryptovalencia",
+      "portuno",
+      "hectorsanuni",
+      "canos",
+      "mrshiper01"
+    ],
+    "repo": "barracafh/build-derechos-b"
+  },
+  {
+    "id": "claridad-a",
+    "nombre": "Claridad A",
+    "herramienta": "claridad",
+    "mesa": "5",
+    "miembros": [
+      "GodGMN",
+      "JoaquinMontesinos",
+      "javicupeiro",
+      "bygirlboss-an",
+      "JFAgullo"
+    ],
+    "repo": "barracafh/build-claridad-a"
+  },
+  {
+    "id": "sello-a",
+    "nombre": "Gaia",
+    "herramienta": "sello",
+    "mesa": "6",
+    "miembros": [
+      "Sarax19",
+      "carlosDev8",
+      "mikebgdev",
+      "daniautomatiza",
+      "jesusgallent"
+    ],
+    "repo": "barracafh/build-sello-a"
+  },
+  {
+    "id": "sello-b",
+    "nombre": "flywire-salsing 2",
+    "herramienta": "sello",
+    "mesa": "7",
+    "miembros": [
+      "EduardoSimon",
+      "dcolli11",
+      "niuxito",
+      "kevinsotomayor",
+      "druizfly"
+    ],
+    "repo": "barracafh/build-sello-b"
+  },
+  {
+    "id": "como-voto-a",
+    "nombre": "flywire-salsing",
+    "herramienta": "como-voto",
+    "mesa": "8",
+    "miembros": [
+      "sanders-vag",
+      "jacarui",
+      "akae",
+      "fceacero",
+      "IsidoroAros"
+    ],
+    "repo": "barracafh/build-como-voto-a"
+  },
+  {
+    "id": "como-voto-b",
+    "nombre": "SERVING COUNT(*)",
+    "herramienta": "como-voto",
+    "mesa": "9",
+    "miembros": [
+      "lruicas",
+      "clauu-uni",
+      "Pedrodeluna",
+      "Jamarlli"
+    ],
+    "repo": "barracafh/build-como-voto-b"
+  },
+  {
+    "id": "libre",
+    "nombre": "San Mateo Builders",
+    "herramienta": "libre",
+    "mesa": "10",
+    "miembros": [
+      "Rsanzd",
+      "davertor",
+      "ademigueldev",
+      "acuevas",
+      "em0rev1"
+    ],
+    "repo": "barracafh/build-libre"
+  }
+]
