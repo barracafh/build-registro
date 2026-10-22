@@ -1,0 +1,31 @@
+{
+  "nombre": "Votijo",
+  "frase": "Todo para votar el 29N, con fuente oficial.",
+  "icono": "*",
+  "herramienta": "como-voto",
+  "equipo": "como-voto-a",
+  "url": "https://build.barraca.house/como-voto-a",
+  "fuentes": [
+    {
+      "nombre": "www.juntaelectoralcentral.es",
+      "url": "https://www.juntaelectoralcentral.es/"
+    },
+    {
+      "nombre": "www.ine.es",
+      "url": "https://www.ine.es/"
+    },
+    {
+      "nombre": "www.boe.es",
+      "url": "https://www.boe.es/"
+    },
+    {
+      "nombre": "www.correos.es",
+      "url": "https://www.correos.es/"
+    },
+    {
+      "nombre": "infoelectoral.interior.gob.es",
+      "url": "https://infoelectoral.interior.gob.es/"
+    }
+  ],
+  "datos": "reales"
+}
